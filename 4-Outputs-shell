@@ -1,0 +1,63 @@
+Python 2.7 (r27:82525, Jul  4 2010, 07:43:08) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+1
+Clint trying to ping server. Ping No :
+RRT calculated is:0.0 seconds
+2
+Request timed out
+3
+Request timed out
+4
+Clint trying to ping server. Ping No :
+RRT calculated is:0.0 seconds
+5
+Request timed out
+6
+Clint trying to ping server. Ping No :
+RRT calculated is:0.0 seconds
+7
+Clint trying to ping server. Ping No :
+RRT calculated is:0.0160000324249 seconds
+8
+Request timed out
+9
+Request timed out
+10
+Clint trying to ping server. Ping No :
+RRT calculated is:0.0 seconds
+
+Traceback (most recent call last):
+  File "C:\Users\shashank\Desktop\CientUDP.py", line 24, in <module>
+    clientSocket.close()
+NameError: name 'clientSocket' is not defined
+>>> ================================ RESTART ================================
+>>> 
+1
+Request timed out
+2
+Request timed out
+3
+Clint trying to ping server. Ping No :
+RRT calculated is:0.0 seconds
+4
+Clint trying to ping server. Ping No :
+RRT calculated is:0.0 seconds
+5
+Clint trying to ping server. Ping No :
+RRT calculated is:0.0 seconds
+6
+Clint trying to ping server. Ping No :
+RRT calculated is:0.0 seconds
+7
+Clint trying to ping server. Ping No :
+RRT calculated is:0.0 seconds
+8
+Clint trying to ping server. Ping No :
+RRT calculated is:0.0 seconds
+9
+Request timed out
+10
+Request timed out
+>>> 
